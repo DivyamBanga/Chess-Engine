@@ -11,4 +11,5 @@ A fully-featured chess game built in Java using Swing for the graphical user int
 The game offers two modes:
 
 Player vs. Player: two human players can play locally
+
 Player vs. Computer: includes an AI opponent that evaluates moves and selects the best option within a 5-second time limit
